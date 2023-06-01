@@ -1,5 +1,17 @@
 package PatternQuestion;
+/*
+ *                 *
+ * *             * *
+ * * *         * * *
+ * * * *     * * * *
+ * * * * * * * * * *
+ * * * * * * * * * *
+ * * * *     * * * *
+ * * *         * * *
+ * *             * *
+ *                 *
 
+ * */
 import java.util.Scanner;
 
 public class kk19 {
